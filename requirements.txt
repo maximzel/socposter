@@ -1,0 +1,7 @@
+celery
+django
+requests
+beautifulsoup4
+pyTelegramBotAPI
+psycopg2-binary
+lxml
