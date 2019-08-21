@@ -171,4 +171,3 @@ fabric.properties
 static/
 album.json
 celerybeat.pid
-socposter/settings.py
